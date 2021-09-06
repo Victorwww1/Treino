@@ -1,0 +1,24 @@
+{
+    "serviços": [
+        {
+            "tiposerviço": "1 – Serviços de informática e congêneres.",
+            "itenserviço": [
+                "1.01 – Análise e desenvolvimento de sistemas.",
+                "1.02 – Programação.",
+                "1.03 - Processamento, armazenamento ou hospedagem de dados, textos, imagens, vídeos, páginas eletrônicas, aplicativos e sistemas de informação, entre outros formatos, e congêneres.",
+                "1.04 - Elaboração de programas de computadores, inclusive de jogos eletrônicos, independentemente da arquitetura construtiva da máquina em que o programa será executado, incluindo tablets, smartphones e congêneres.",
+                "1.05 – Licenciamento ou cessão de direito de uso de programas de computação.",
+                "1.06 – Assessoria e consultoria em informática.",
+                "1.07 – Suporte técnico em informática, inclusive instalação, configuração e manutenção de programas de computação e bancos de dados.",
+                "1.08 – Planejamento, confecção, manutenção e atualização de páginas eletrônicas.",
+                "1.09 - Disponibilização, sem cessão definitiva, de conteúdos de áudio, vídeo, imagem e texto por meio da internet, respeitada a imunidade de livros, jornais e periódicos (exceto a distribuição de conteúdos pelas prestadoras de Serviço de Acesso Condicionado, de que trata a Lei no 12.485, de 12 de setembro de 2011, sujeita ao ICMS)."
+            ]
+        },
+        {
+            "tiposerviço": "2 – Serviços de pesquisas e desenvolvimento de qualquer natureza.",
+            "itenserviço": [
+                "2.01 – Serviços de pesquisas e desenvolvimento de qualquer natureza."
+            ]
+        }
+    ]
+}
