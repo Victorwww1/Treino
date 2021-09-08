@@ -3,7 +3,7 @@
         {
             "tiposerviço": "1 – Serviços de informática e congêneres.",
             "itenserviço": [
-                "1.01 – Análise e desenvolvimento de sistemas.",
+                "1.01 – Análise e desenvolvimento de sistemas.": "Imposto devido na sede do prestador",
                 "1.02 – Programação.",
                 "1.03 - Processamento, armazenamento ou hospedagem de dados, textos, imagens, vídeos, páginas eletrônicas, aplicativos e sistemas de informação, entre outros formatos, e congêneres.",
                 "1.04 - Elaboração de programas de computadores, inclusive de jogos eletrônicos, independentemente da arquitetura construtiva da máquina em que o programa será executado, incluindo tablets, smartphones e congêneres.",
